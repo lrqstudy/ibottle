@@ -1,5 +1,5 @@
-# DriftBottle
-DriftBottle
+# ibottle
+
 去中心化漂流瓶ibottle
 
 一、项目思路逻辑及Solidity版本
